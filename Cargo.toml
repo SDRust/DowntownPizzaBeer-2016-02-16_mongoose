@@ -1,0 +1,9 @@
+[package]
+name = "sd_rust_mongoose"
+version = "0.1.0"
+authors = ["Gautam Dey <gautam.dey77@gmail.com>"]
+
+[dependencies]
+"time" = "*"
+"curl" = "*"
+
